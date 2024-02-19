@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c622f31b-ce4b-436c-a490-23b39941c001" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cRwsVUtKCrV1FiEgQwjAd3ZgD3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.RecettesAdd.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Maven.YumLink_v3 [org.openjfx:javafx-maven-plugin:0.0.8:run].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Pidev_3A29_Dynamic_Developers_Desktop_JavaFx-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.JavaFX",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\YumLink_Env\YumLink\YumLink_v3\src\main\resources" />
+      <recent name="D:\YumLink_Env\YumLink\YumLink_v3\src\main\resources\org\example\yumlink_v3" />
+      <recent name="D:\YumLink_Env\YumLink\YumLink_v3\src\main\java\Gui" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-jbr-17.0.9-4caba194b151-51f1b679" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c622f31b-ce4b-436c-a490-23b39941c001" name="Changes" comment="" />
+      <created>1708087906040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708087906040</updated>
+      <workItem from="1708087907023" duration="1016000" />
+      <workItem from="1708089069960" duration="246000" />
+      <workItem from="1708089609028" duration="178000" />
+      <workItem from="1708089841709" duration="119000" />
+      <workItem from="1708089979805" duration="141000" />
+      <workItem from="1708090162822" duration="60000" />
+      <workItem from="1708090236555" duration="288000" />
+      <workItem from="1708090582536" duration="111000" />
+      <workItem from="1708090712055" duration="82000" />
+      <workItem from="1708090816005" duration="16000" />
+      <workItem from="1708090866512" duration="115000" />
+      <workItem from="1708090991154" duration="42000" />
+      <workItem from="1708091146746" duration="1812000" />
+      <workItem from="1708102083679" duration="1466000" />
+      <workItem from="1708103581001" duration="256000" />
+      <workItem from="1708103852239" duration="581000" />
+      <workItem from="1708104454908" duration="8804000" />
+      <workItem from="1708114759504" duration="721000" />
+      <workItem from="1708115860134" duration="608000" />
+      <workItem from="1708117089482" duration="849000" />
+      <workItem from="1708163194571" duration="2965000" />
+      <workItem from="1708166726453" duration="746000" />
+      <workItem from="1708167795354" duration="990000" />
+      <workItem from="1708168828849" duration="1157000" />
+      <workItem from="1708170158605" duration="776000" />
+      <workItem from="1708171036716" duration="2504000" />
+      <workItem from="1708178003251" duration="1984000" />
+      <workItem from="1708245442953" duration="455000" />
+      <workItem from="1708245946220" duration="2328000" />
+      <workItem from="1708248602163" duration="1451000" />
+      <workItem from="1708335098718" duration="28000" />
+      <workItem from="1708358266172" duration="1721000" />
+      <workItem from="1708362350357" duration="2286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

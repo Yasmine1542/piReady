@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.AffichageR">
+   <children>
+      <TableView layoutX="35.0" layoutY="89.0" prefHeight="274.0" prefWidth="529.0">
+        <columns>
+          <TableColumn fx:id="id_Col" prefWidth="75.0" text="ID" />
+          <TableColumn fx:id="Nom_Col" prefWidth="75.0" text="nom" />
+            <TableColumn fx:id="desc_Col" prefWidth="75.0" text="desc" />
+            <TableColumn fx:id="imgS_col" prefWidth="75.0" text="imgS" />
+            <TableColumn fx:id="vid_Col" prefWidth="75.0" text="videoS" />
+            <TableColumn fx:id="Calorie_col" prefWidth="75.0" text="Calorie" />
+            <TableColumn fx:id="Prot_col" prefWidth="75.0" text="Proteine" />
+        </columns>
+      </TableView>
+      <Button layoutX="35.0" layoutY="43.0" mnemonicParsing="false" text="Button" />
+   </children>
+</AnchorPane>

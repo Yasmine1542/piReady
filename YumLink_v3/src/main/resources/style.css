@@ -1,0 +1,31 @@
+/* Sidebar styling */
+.sidebar {
+    -fx-background-color: #F7E6C2;
+    -fx-padding: 10px;
+    -fx-spacing: 5px;
+    -fx-pref-width: 200px;
+    -fx-border-width: 0 1 0 0;
+    -fx-border-color: #CCCCCC;
+}
+
+/* Sidebar item styling */
+.sidebar-button {
+    -fx-padding: 8px 10px;
+    -fx-text-fill: #333333;
+    -fx-background-color: transparent;
+    -fx-border-width: 1px; /* Only bottom border */
+    -fx-border-color: #FFFFFF; /* Initial border color */
+    -fx-cursor: hand;
+}
+
+/* Hover effect for sidebar buttons */
+.sidebar-button:hover {
+    -fx-background-color: #F7E6C2; /* Hover background color */
+    -fx-border-color: #999999; /* Adjusted border color on hover */
+}
+
+/* Selected sidebar button styling */
+.sidebar-button:selected {
+    -fx-background-color: #F7E6C2; /* Selected background color */
+    -fx-border-color: #999999; /* Adjusted border color for selected item */
+}
